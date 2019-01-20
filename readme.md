@@ -1,2 +1,2 @@
-hello there
+Salut tout le monde!
 
